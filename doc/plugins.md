@@ -231,7 +231,7 @@ The list of plugins:
   — change text matching a regex to links
 * 🟢 [`remark-lint`](https://github.com/remarkjs/remark-lint)
   — check markdown code style
-* 🟢 [`remark-lint-visimark`](https://github.com/michal-niedzwiedzki/visimark/tree/main/packages/remark-visimark)
+* 🟢 [`remark-lint-visimark`](https://github.com/michal-niedzwiedzki/visimark/tree/master/packages/remark-visimark)
   — check formulas in `vmark` blocks against the numbers in the prose
 * 🟢 [`remark-man`](https://github.com/remarkjs/remark-man)
   — serialize markdown as man pages (roff)
